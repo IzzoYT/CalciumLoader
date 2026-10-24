@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/branding/calciumloader-logo.png" alt="CalciumLoader Logo" width="220" />
+  <img src="assets/branding/CLlogo.png" alt="CalciumLoader Logo" width="220" />
   <br />
-  <img src="assets/branding/calciumloader-text.png" alt="CalciumLoader" width="520" />
+  <img src="assets/branding/CLtext.png" alt="CalciumLoader" width="520" />
 
   <br />
   <br />
